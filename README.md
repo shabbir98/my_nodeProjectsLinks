@@ -1,2 +1,14 @@
 # my_nodeProjectsLinks
 Q1 projects links
+
+[Calculator](https://github.com/shabbir98/Calculator)
+[Number guessing game](https://github.com/shabbir98/number_guessing-game)
+[Atm](https://github.com/shabbir98/Atm)
+[Todo](https://github.com/shabbir98/Todo-List)
+[Currency converter](https://github.com/shabbir98/currency_converter)
+[Word counter](https://github.com/shabbir98/word_counter)
+[Student management system](https://github.com/shabbir98/student_management_system)
+[Adventure game](https://github.com/shabbir98/adventure_game)
+[Quiz](https://github.com/shabbir98/quiz)
+[Countdown timer](https://github.com/shabbir98/countdown_timer)
+[Oop](https://github.com/shabbir98/oop_app)
