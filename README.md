@@ -1,7 +1,7 @@
 # my_nodeProjectsLinks
 Q1 projects links
 
-[Calculator](https://github.com/shabbir98/Calculator)
+1. [Calculator](https://github.com/shabbir98/Calculator)
 [Number guessing game](https://github.com/shabbir98/number_guessing-game)
 [Atm](https://github.com/shabbir98/Atm)
 [Todo](https://github.com/shabbir98/Todo-List)
